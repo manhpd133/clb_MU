@@ -53,7 +53,7 @@ img{
 #slider {
     margin-top: 76px;
     padding-top: 50%;
-    background: url('.U/pic/shop/mu.jpg') top center / cover no-repeat;
+    background: url('./pic/shop/mu.jpg') top center / cover no-repeat;
 }
 
 #content {
